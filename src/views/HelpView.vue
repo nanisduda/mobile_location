@@ -6,7 +6,7 @@ import '../assets/css/style.css'
     <div class="page-title-area page-title-style-two">
         <div class="container">
             <div class="page-title-content">
-                <h2>新闻动态</h2>
+                <h2>帮助中心</h2>
                 <ul>
                     <li>
                         <a href="https://www.wwwqutao.com/">
@@ -14,7 +14,7 @@ import '../assets/css/style.css'
                             网站首页
                         </a>
                     </li>
-                    <li class="active">新闻动态</li>
+                    <li class="active">帮助中心</li>
                 </ul>
             </div>
         </div>
@@ -32,41 +32,12 @@ import '../assets/css/style.css'
 
                                 <div class="single-blog-content">
                                     <h3>
-                                        <a href="/new/2020/1105/28.html">
-                                            手机号码免费定位试用一次，1元手机定位花1元钱
+                                        <a href="/help/2020/1102/11.html">
+                                            如何在线定位追踪手机？
                                         </a>
                                     </h3>
 
-                                    <p> 手机号码免费定位试用一次 ，是真的吗
-                                        佩金斯先生和戈尔冈小姐，以及奥尔德堡镇上两大派系的爱。我亲爱的约翰，露西以一种非常睿智的神色喊道，一定会这样的。至于Doughty Stree... </p>
-
-                                    <ul class="admin">
-                                        <li>
-                                            <a>
-                                                <i class="bx bx-user-circle"></i>
-                                                作者: admin
-                                            </a>
-                                        </li>
-                                        <li class="float">
-                                            <i class="bx bx-calendar-alt"></i>
-                                            2020-11-05
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-12">
-                            <div class="single-blog-posts">
-
-                                <div class="single-blog-content">
-                                    <h3>
-                                        <a href="/new/2020/1102/26.html">
-                                            为啥这么难？漫游手机定位费即将退出历史舞台
-                                        </a>
-                                    </h3>
-
-                                    <p> 主推的套餐均不含有漫游费。
-                                        取消手机国内漫游费不可避免，对此，在2008年，工信部规定主叫每分钟0.6元为国内漫游通话费上限，这套数据存在本地的服务器，话费太贵， （原标题：...
+                                    <p> 在线跟踪手机是与家人和同事保持联系的好方法。手机提供商跟踪服务可以在线跟踪手机。这要求通知您要跟踪的电话，并征得电话所有者的同意进行跟踪。手机还需要在其中启用GPS定...
                                     </p>
 
                                     <ul class="admin">
@@ -86,160 +57,15 @@ import '../assets/css/style.css'
                         </div>
                         <div class="col-lg-12">
                             <div class="single-blog-posts">
-                                <a href='/new/2020/1102/25.html'><img src="/uploads/201102/1-201102142539100.jpg"
-                                        alt="因此今年的iPhone手机号码定位 7应该还是会有三款" /></a>
-                                <div class="single-blog-content">
-                                    <h3>
-                                        <a href="/new/2020/1102/25.html">
-                                            因此今年的iPhone手机号码定位 7应该还是会有三款
-                                        </a>
-                                    </h3>
-
-                                    <p> 关于iPhone12系列的设计就不再多说了，果粉们的大日子就要到了。
-                                        取消3.5mm耳机孔，它们分别为4.7英寸的iPhone7(单镜头）、5.5英寸的iPhone 7 Plus（单镜头）和5.5英寸的iPhone 7
-                                        Pro（双镜头+无... </p>
-
-                                    <ul class="admin">
-                                        <li>
-                                            <a>
-                                                <i class="bx bx-user-circle"></i>
-                                                作者: admin
-                                            </a>
-                                        </li>
-                                        <li class="float">
-                                            <i class="bx bx-calendar-alt"></i>
-                                            2020-11-02
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-12">
-                            <div class="single-blog-posts">
-                                <a href='/new/2020/1102/24.html'><img src="/uploads/201102/1-201102142539100.jpg"
-                                        alt="提升VR视觉体验手机号码定位追踪系统 三星S8将首" /></a>
-                                <div class="single-blog-content">
-                                    <h3>
-                                        <a href="/new/2020/1102/24.html">
-                                            提升VR视觉体验手机号码定位追踪系统 三星S8将首
-                                        </a>
-                                    </h3>
-
-                                    <p> 猜测Galaxy S8项目代号中的Dream可能在暗示谷歌的Daydream VR认证标准，它将采用4K级别显示屏，三星下一代Galaxy
-                                        S系列旗舰将再次与黑科技相遇，另外。 配合VR设备带来更好的虚拟现实体验... </p>
-
-                                    <ul class="admin">
-                                        <li>
-                                            <a>
-                                                <i class="bx bx-user-circle"></i>
-                                                作者: admin
-                                            </a>
-                                        </li>
-                                        <li class="float">
-                                            <i class="bx bx-calendar-alt"></i>
-                                            2020-11-02
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-12">
-                            <div class="single-blog-posts">
-                                <a href='/new/2020/1102/23.html'><img src="/uploads/201102/1-20110214223S44.jpg"
-                                        alt="言语刺激收信手机号码定位人的方式种植木马" /></a>
-                                <div class="single-blog-content">
-                                    <h3>
-                                        <a href="/new/2020/1102/23.html">
-                                            言语刺激收信手机号码定位人的方式种植木马
-                                        </a>
-                                    </h3>
-
-                                    <p> 提示他们自己手机中毒，公司对此非常重视。 点击即可领取价值198元手表一块，网友很容易误入圈套， 一问易答已经开始正式实行上榜红名制度了。
-                                        违者将依法追究责任，版权属网易... </p>
-
-                                    <ul class="admin">
-                                        <li>
-                                            <a>
-                                                <i class="bx bx-user-circle"></i>
-                                                作者: admin
-                                            </a>
-                                        </li>
-                                        <li class="float">
-                                            <i class="bx bx-calendar-alt"></i>
-                                            2020-11-02
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-12">
-                            <div class="single-blog-posts">
-                                <a href='/new/2020/1102/22.html'><img src="/uploads/201102/1-20110214212XU.jpg"
-                                        alt="以保证用户数据手机号码定位找人的多样性和完" /></a>
-                                <div class="single-blog-content">
-                                    <h3>
-                                        <a href="/new/2020/1102/22.html">
-                                            以保证用户数据手机号码定位找人的多样性和完
-                                        </a>
-                                    </h3>
-
-                                    <p> 3、数据如何得出：进入实验室后，苹果在世界各地都设有小规模的实验室，网易作为受邀的两家门户之一，由于我们进入的当天正值数据收集的高峰。
-                                        同时所有的测验人员都会佩戴专... </p>
-
-                                    <ul class="admin">
-                                        <li>
-                                            <a>
-                                                <i class="bx bx-user-circle"></i>
-                                                作者: admin
-                                            </a>
-                                        </li>
-                                        <li class="float">
-                                            <i class="bx bx-calendar-alt"></i>
-                                            2020-11-02
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-12">
-                            <div class="single-blog-posts">
 
                                 <div class="single-blog-content">
                                     <h3>
-                                        <a href="/new/2020/1102/21.html">
-                                            这样的手机号码定位诺基亚回来还能火吗？
+                                        <a href="/help/2020/1102/10.html">
+                                            什么是手机追踪？
                                         </a>
                                     </h3>
 
-                                    <p> 只能说诺基亚和Symbian在当时是最好的选择，至于手机本身嘛， 后来升级到Windows Phone系统之后。 可能是现有的传统手机厂家。
-                                        静静的做个美男子就可以。 就拿现如今大红大紫的iPhone为... </p>
-
-                                    <ul class="admin">
-                                        <li>
-                                            <a>
-                                                <i class="bx bx-user-circle"></i>
-                                                作者: admin
-                                            </a>
-                                        </li>
-                                        <li class="float">
-                                            <i class="bx bx-calendar-alt"></i>
-                                            2020-11-02
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-12">
-                            <div class="single-blog-posts">
-
-                                <div class="single-blog-content">
-                                    <h3>
-                                        <a href="/new/2020/1102/20.html">
-                                            信号太多导致“打架”手机定位也成为了信号不
-                                        </a>
-                                    </h3>
-
-                                    <p> 廉价手机捕捉2G网络微弱信号的能力胜过旗舰手机，还有城市信号手机受到屏蔽阻挡信号无法覆盖的地方，那可能就是手机接收电路有故障，让有需要的朋友学到知识的同时，大部分都...
+                                    <p> 手机跟踪可以定义为获得手机的当前位置，无论是静止的还是移动的。通过在无线电塔和手机之间对无线电信号进行多边定位或通过GPS，可以在受限区域内进行跟踪。尽管多边通话要求...
                                     </p>
 
                                     <ul class="admin">
@@ -252,6 +78,174 @@ import '../assets/css/style.css'
                                         <li class="float">
                                             <i class="bx bx-calendar-alt"></i>
                                             2020-11-02
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-12">
+                            <div class="single-blog-posts">
+
+                                <div class="single-blog-content">
+                                    <h3>
+                                        <a href="/help/2020/1102/9.html">
+                                            我的手机会不会被人追踪？
+                                        </a>
+                                    </h3>
+
+                                    <p> 尽管您的手机可以使您与世界保持联系，但它还为您的老板，配偶，朋友或同事提供了一个了解您的一举一动的窗口。是的，任何人都有可能追踪您的手机。现在，与您保持联系的相同...
+                                    </p>
+
+                                    <ul class="admin">
+                                        <li>
+                                            <a>
+                                                <i class="bx bx-user-circle"></i>
+                                                作者: admin
+                                            </a>
+                                        </li>
+                                        <li class="float">
+                                            <i class="bx bx-calendar-alt"></i>
+                                            2020-11-02
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-12">
+                            <div class="single-blog-posts">
+
+                                <div class="single-blog-content">
+                                    <h3>
+                                        <a href="/help/2020/1102/8.html">
+                                            手机号码定位系统可以追踪哪些手机品牌？
+                                        </a>
+                                    </h3>
+
+                                    <p> 可以通过卫星追踪手机。尽管它们看起来很遥远，但它们可以在15米内准确。
+                                        跟踪蜂窝或无线电波信号的关键称为三边测量。为了进行有效的三边测量，手机必须至少在3颗卫星上进行拾... </p>
+
+                                    <ul class="admin">
+                                        <li>
+                                            <a>
+                                                <i class="bx bx-user-circle"></i>
+                                                作者: admin
+                                            </a>
+                                        </li>
+                                        <li class="float">
+                                            <i class="bx bx-calendar-alt"></i>
+                                            2020-11-02
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-12">
+                            <div class="single-blog-posts">
+
+                                <div class="single-blog-content">
+                                    <h3>
+                                        <a href="/help/2020/1102/7.html">
+                                            手机号码能追踪2012年及以后的智能手机吗？
+                                        </a>
+                                    </h3>
+
+                                    <p> 手机跟踪技术使用GPS（全球定位系统）来精确定位手机设备的位置。大多数手机提供商都提供配备GPS的电话。执法机构出于安全和调查目的而使用GPS跟踪。公众通常使用GPS进行导航，尽...
+                                    </p>
+
+                                    <ul class="admin">
+                                        <li>
+                                            <a>
+                                                <i class="bx bx-user-circle"></i>
+                                                作者: admin
+                                            </a>
+                                        </li>
+                                        <li class="float">
+                                            <i class="bx bx-calendar-alt"></i>
+                                            2020-11-02
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-12">
+                            <div class="single-blog-posts">
+
+                                <div class="single-blog-content">
+                                    <h3>
+                                        <a href="/help/2020/1102/6.html">
+                                            您什么时候使用电话跟踪器安全？
+                                        </a>
+                                    </h3>
+
+                                    <p> 手机跟踪已成为一种非常强大的监视技术，受到了薄弱的技术和法律保护。随着法院授权政府对手机进行跟踪，政府无需服务提供商的协助即可跟踪手机，即使没有通话，政府也可以跟...
+                                    </p>
+
+                                    <ul class="admin">
+                                        <li>
+                                            <a>
+                                                <i class="bx bx-user-circle"></i>
+                                                作者: admin
+                                            </a>
+                                        </li>
+                                        <li class="float">
+                                            <i class="bx bx-calendar-alt"></i>
+                                            2020-11-02
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-12">
+                            <div class="single-blog-posts">
+
+                                <div class="single-blog-content">
+                                    <h3>
+                                        <a href="/help/2020/1102/5.html">
+                                            关于手机追踪的10个简单事实
+                                        </a>
+                                    </h3>
+
+                                    <p> 1.手机跟踪可以成功执行以跟踪任何手机：
+                                        将手机的当前位置固定或移动都称为手机跟踪。诸如基于网络的系统，基于SIM的系统，基于手机的系统和混合定位系统之类的各种技术被用于... </p>
+
+                                    <ul class="admin">
+                                        <li>
+                                            <a>
+                                                <i class="bx bx-user-circle"></i>
+                                                作者: admin
+                                            </a>
+                                        </li>
+                                        <li class="float">
+                                            <i class="bx bx-calendar-alt"></i>
+                                            2020-11-01
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-12">
+                            <div class="single-blog-posts">
+
+                                <div class="single-blog-content">
+                                    <h3>
+                                        <a href="/help/2020/1101/4.html">
+                                            使用手机号码定位追踪系统是否合法？
+                                        </a>
+                                    </h3>
+
+                                    <p> 是的，使用手机号码定位追踪软件进行以下行为绝对合法： 监视您的18岁以下的孩子。 通过公司拥有的手机或平板电脑跟踪您的员工。
+                                        这些听起来很不现实，因为跟踪某人仅意味着跟... </p>
+
+                                    <ul class="admin">
+                                        <li>
+                                            <a>
+                                                <i class="bx bx-user-circle"></i>
+                                                作者: admin
+                                            </a>
+                                        </li>
+                                        <li class="float">
+                                            <i class="bx bx-calendar-alt"></i>
+                                            2020-11-01
                                         </li>
                                     </ul>
                                 </div>
@@ -262,8 +256,8 @@ import '../assets/css/style.css'
                             <div class="pagination-area">
                                 <a class='prev page-numbers'><i class='bx bx-chevron-left'></i></a>
                                 <a class="page-numbers current">1</a>
-                                <a class="page-numbers" href='list_1_2.html'>2</a>
-                                <a class='next page-numbers' href='list_1_2.html'><i
+                                <a class="page-numbers" href='list_2_2.html'>2</a>
+                                <a class='next page-numbers' href='list_2_2.html'><i
                                         class='bx bx-chevron-right'></i></a>
 
 
@@ -287,16 +281,15 @@ import '../assets/css/style.css'
                             <h3 class="widget-title">热点推荐</h3>
 
                             <ul>
-                                <li><a href="/new/2020/1101/2.html">文章</a></li>
-                                <li><a href="/new/2020/1105/28.html">手机号码免费定位试用一</a></li>
-                                <li><a href="/new/2020/1101/1.html">诺基亚年底王者归来 推两</a></li>
-                                <li><a href="/new/2020/1102/22.html">以保证用户数据手机号码</a></li>
-                                <li><a href="/new/2020/1102/19.html">对于这些贴着互联手机号</a></li>
-                                <li><a href="/new/2020/1102/20.html">信号太多导致“打架”手</a></li>
-                                <li><a href="/new/2020/1102/24.html">提升VR视觉体验手机号码定</a></li>
-                                <li><a href="/new/2020/1102/25.html">因此今年的iPhone手机号码</a></li>
-                                <li><a href="/new/2020/1102/23.html">言语刺激收信手机号码定</a></li>
-                                <li><a href="/new/2020/1102/21.html">这样的手机号码定位诺基</a></li>
+                                <li><a href="/help/2020/1102/7.html">手机号码能追踪2012年及以</a></li>
+                                <li><a href="/help/2020/1102/6.html">您什么时候使用电话跟踪</a></li>
+                                <li><a href="/help/2020/1102/11.html">如何在线定位追踪手机？</a></li>
+                                <li><a href="/help/2020/1102/10.html">什么是手机追踪？</a></li>
+                                <li><a href="/help/2020/1102/5.html">关于手机追踪的10个简单事</a></li>
+                                <li><a href="/help/2020/1101/4.html">使用手机号码定位追踪系</a></li>
+                                <li><a href="/help/2020/1102/9.html">我的手机会不会被人追踪</a></li>
+                                <li><a href="/help/2020/1102/8.html">手机号码定位系统可以追</a></li>
+                                <li><a href="/help/2020/1101/3.html">如何找到iPhone和Android的位</a></li>
 
                             </ul>
                         </div>
@@ -413,155 +406,4 @@ import '../assets/css/style.css'
     </section>
     <!-- End Blog Column One Area -->
 
-    <!-- Start Footer Area -->
-    <footer class="footer-area pt-100 pb-70 jarallax" data-jarallax='{"speed": 0.3}'>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-3 col-md-6">
-                    <div class="single-footer-widget">
-                        <a href="/" class="手机号码定位追踪系统">
-                            <img src="/assets/img/logo.png" alt="Image">
-                        </a>
-
-                        <p>我们不承担访问或依赖本网站上的信息可能产生的任何损失，任何责任，并在法律允许的最大限度内，我们排除所有的损失或损害赔偿或直接或间接使用本网站所产生的责任。</p>
-
-                        <ul class="social-icon">
-                            <li>
-                                <a href="#">
-                                    <i class="bx bxl-facebook"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <i class="bx bxl-instagram"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <i class="bx bxl-linkedin-square"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <i class="bx bxl-twitter"></i>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <div class="single-footer-widget">
-                        <h3>关于</h3>
-
-                        <ul class="import-link">
-                            <li>
-                                <a href="/about.html">关于我们</a>
-                            </li>
-                            <li>
-                                <a href="/contact.html">联系我们</a>
-                            </li>
-                            <li>
-                                <a href="/Law.html">法律声明</a>
-                            </li>
-                            <li>
-                                <a href="/privacy.html">隐私政策</a>
-                            </li>
-                            <li>
-                                <a href="/conditions.html">服务条款</a>
-                            </li>
-                            <li>
-                                <a href="/data/sitemap.html">网站地图</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <div class="single-footer-widget">
-                        <h3>服务和产品</h3>
-
-                        <ul class="import-link">
-                            <li>
-                                <a href='/service/2020/1102/27.html'>快递收货地址查看</a>
-                            </li>
-                            <li>
-                                <a href='/service/2020/1102/18.html'>手机号码定位追踪找人</a>
-                            </li>
-                            <li>
-                                <a href='/service/2020/1102/17.html'>手机短信查看</a>
-                            </li>
-                            <li>
-                                <a href='/service/2020/1102/16.html'>查看所有通话记录</a>
-                            </li>
-                            <li>
-                                <a href='/service/2020/1102/15.html'>查看手机相册照片/视频</a>
-                            </li>
-                            <li>
-                                <a href='/service/2020/1102/14.html'>监控抓取微信和QQ聊天记录信息</a>
-                            </li>
-
-                        </ul>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <div class="single-footer-widget">
-                        <h3>友情链接</h3>
-
-                        <ul class="import-link">
-
-                            <li>
-                                <a href='http://www.seqty.com/' target='_blank'>查看微信聊天记录</a>
-                            </li>
-
-                            <li>
-                                <a href='https://www.baidu.com/' target='_blank'>百度</a>
-                            </li>
-
-                            <li>
-                                <a href='http://www.seqty.com/' target='_blank'>手机号码定位系统</a>
-                            </li>
-
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-    <!-- End Footer Area -->
-
-    <!-- Start Copy Right Area -->
-    <div class="copy-right-area">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-6 col-md-6">
-                    <p>Copyright @2020 Seqty. Designed <a href="http://www.seqty.com/" target="_blank">Seqty</a></p>
-                </div>
-
-                <div class="col-lg-6 col-md-6">
-                    <ul class="footer-menu">
-                        <li>
-                            <a href="/sitemap.xml" target="_blank">
-                                百度地图
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/tags.php" target="_blank">
-                                TAG标签
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Copy Right Area -->
-
-    <!-- Start Go Top Area -->
-    <div class="go-top">
-        <i class="bx bx-chevrons-up"></i>
-        <i class="bx bx-chevrons-up"></i>
-    </div>
-    <!-- End Go Top Area -->
 </template>

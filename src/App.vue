@@ -10,9 +10,11 @@ import './assets/css/flaticon.css'
 import './assets/css/meanmenu.min.css'
 import './assets/css/nice-select.min.css'
 import './assets/css/odometer.min.css'
-import './assets/css/style-two.css'
 import './assets/css/responsive-two.css'
 import Preloader from './components/Preloader.vue'
+import FooterView from './views/FooterView.vue'
+import CopyRightView from './views/CopyRightView.vue'
+import GoToTop from './components/GoToTop.vue'
 </script>
 
 <template>
@@ -69,6 +71,9 @@ import Preloader from './components/Preloader.vue'
 	</header>
 	<!-- End Header Area -->
 	<RouterView />
+	<GoToTop />
+	<FooterView />
+	<CopyRightView />
 </template>
 
 <style scoped>
