@@ -6,7 +6,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="single-footer-widget">
                         <a href="/" class="手机号码定位追踪系统">
-                            <img src="/assets/img/logo.png" alt="Image">
+                            <img src="../assets/img/logo.png" alt="Image">
                         </a>
 
                         <p>我们不承担访问或依赖本网站上的信息可能产生的任何损失，任何责任，并在法律允许的最大限度内，我们排除所有的损失或损害赔偿或直接或间接使用本网站所产生的责任。</p>

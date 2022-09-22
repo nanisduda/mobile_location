@@ -1,5 +1,43 @@
 <script setup lang="ts">
 import '../assets/css/style.css'
+import { ref } from 'vue'
+const items = ref([
+    {
+        id: 1,
+        title: '手机号码免费定位试用一次，1元手机定位花1元钱',
+        desction: '手机号码免费定位试用一次 ，是真的吗佩金斯先生和戈尔冈小姐，以及奥尔德堡镇上两大派系的爱。我亲爱的约翰，露西以一种非常睿智的神色喊道，一定会这样的。至于Doughty Stree...',
+        author: 'admin',
+        date: '2020-11-05',
+        img: '',
+    },
+
+    {
+        id: 1,
+        title: '手机号码免费定位试用一次，1元手机定位花1元钱',
+        desction: '手机号码免费定位试用一次 ，是真的吗佩金斯先生和戈尔冈小姐，以及奥尔德堡镇上两大派系的爱。我亲爱的约翰，露西以一种非常睿智的神色喊道，一定会这样的。至于Doughty Stree...',
+        author: 'admin',
+        date: '2020-11-05',
+        img: '123',
+    },
+
+    {
+        id: 1,
+        title: '手机号码免费定位试用一次，1元手机定位花1元钱',
+        desction: '手机号码免费定位试用一次 ，是真的吗佩金斯先生和戈尔冈小姐，以及奥尔德堡镇上两大派系的爱。我亲爱的约翰，露西以一种非常睿智的神色喊道，一定会这样的。至于Doughty Stree...',
+        author: 'admin',
+        date: '2020-11-05',
+        img: '',
+    },
+
+    {
+        id: 1,
+        title: '手机号码免费定位试用一次，1元手机定位花1元钱',
+        desction: '手机号码免费定位试用一次 ，是真的吗佩金斯先生和戈尔冈小姐，以及奥尔德堡镇上两大派系的爱。我亲爱的约翰，露西以一种非常睿智的神色喊道，一定会这样的。至于Doughty Stree...',
+        author: 'admin',
+        date: '2020-11-05',
+        img: '',
+    },
+])
 </script>
 <template>
     <!-- Start Page Title Area -->
@@ -27,231 +65,30 @@ import '../assets/css/style.css'
             <div class="row">
                 <div class="col-lg-8">
                     <div class="row">
-                        <div class="col-lg-12">
+                        <div class="col-lg-12" v-for="item in items" :key="item.id">
                             <div class="single-blog-posts">
 
                                 <div class="single-blog-content">
                                     <h3>
-                                        <a href="/new/2020/1105/28.html">
-                                            手机号码免费定位试用一次，1元手机定位花1元钱
+                                        <a href="/new/2020/1105/1.html">
+                                            {{ item.title }}
+                                            <!-- <img v-if="item.img" src="/uploads/201102/1-201102142539100.jpg"
+                                                :alt="item.title" /> -->
                                         </a>
                                     </h3>
 
-                                    <p> 手机号码免费定位试用一次 ，是真的吗
-                                        佩金斯先生和戈尔冈小姐，以及奥尔德堡镇上两大派系的爱。我亲爱的约翰，露西以一种非常睿智的神色喊道，一定会这样的。至于Doughty Stree... </p>
+                                    <p>{{ item.desction }}</p>
 
                                     <ul class="admin">
                                         <li>
                                             <a>
                                                 <i class="bx bx-user-circle"></i>
-                                                作者: admin
+                                                作者: {{ item.author }}
                                             </a>
                                         </li>
                                         <li class="float">
                                             <i class="bx bx-calendar-alt"></i>
-                                            2020-11-05
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-12">
-                            <div class="single-blog-posts">
-
-                                <div class="single-blog-content">
-                                    <h3>
-                                        <a href="/new/2020/1102/26.html">
-                                            为啥这么难？漫游手机定位费即将退出历史舞台
-                                        </a>
-                                    </h3>
-
-                                    <p> 主推的套餐均不含有漫游费。
-                                        取消手机国内漫游费不可避免，对此，在2008年，工信部规定主叫每分钟0.6元为国内漫游通话费上限，这套数据存在本地的服务器，话费太贵， （原标题：...
-                                    </p>
-
-                                    <ul class="admin">
-                                        <li>
-                                            <a>
-                                                <i class="bx bx-user-circle"></i>
-                                                作者: admin
-                                            </a>
-                                        </li>
-                                        <li class="float">
-                                            <i class="bx bx-calendar-alt"></i>
-                                            2020-11-02
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-12">
-                            <div class="single-blog-posts">
-                                <a href='/new/2020/1102/25.html'><img src="/uploads/201102/1-201102142539100.jpg"
-                                        alt="因此今年的iPhone手机号码定位 7应该还是会有三款" /></a>
-                                <div class="single-blog-content">
-                                    <h3>
-                                        <a href="/new/2020/1102/25.html">
-                                            因此今年的iPhone手机号码定位 7应该还是会有三款
-                                        </a>
-                                    </h3>
-
-                                    <p> 关于iPhone12系列的设计就不再多说了，果粉们的大日子就要到了。
-                                        取消3.5mm耳机孔，它们分别为4.7英寸的iPhone7(单镜头）、5.5英寸的iPhone 7 Plus（单镜头）和5.5英寸的iPhone 7
-                                        Pro（双镜头+无... </p>
-
-                                    <ul class="admin">
-                                        <li>
-                                            <a>
-                                                <i class="bx bx-user-circle"></i>
-                                                作者: admin
-                                            </a>
-                                        </li>
-                                        <li class="float">
-                                            <i class="bx bx-calendar-alt"></i>
-                                            2020-11-02
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-12">
-                            <div class="single-blog-posts">
-                                <a href='/new/2020/1102/24.html'><img src="/uploads/201102/1-201102142539100.jpg"
-                                        alt="提升VR视觉体验手机号码定位追踪系统 三星S8将首" /></a>
-                                <div class="single-blog-content">
-                                    <h3>
-                                        <a href="/new/2020/1102/24.html">
-                                            提升VR视觉体验手机号码定位追踪系统 三星S8将首
-                                        </a>
-                                    </h3>
-
-                                    <p> 猜测Galaxy S8项目代号中的Dream可能在暗示谷歌的Daydream VR认证标准，它将采用4K级别显示屏，三星下一代Galaxy
-                                        S系列旗舰将再次与黑科技相遇，另外。 配合VR设备带来更好的虚拟现实体验... </p>
-
-                                    <ul class="admin">
-                                        <li>
-                                            <a>
-                                                <i class="bx bx-user-circle"></i>
-                                                作者: admin
-                                            </a>
-                                        </li>
-                                        <li class="float">
-                                            <i class="bx bx-calendar-alt"></i>
-                                            2020-11-02
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-12">
-                            <div class="single-blog-posts">
-                                <a href='/new/2020/1102/23.html'><img src="/uploads/201102/1-20110214223S44.jpg"
-                                        alt="言语刺激收信手机号码定位人的方式种植木马" /></a>
-                                <div class="single-blog-content">
-                                    <h3>
-                                        <a href="/new/2020/1102/23.html">
-                                            言语刺激收信手机号码定位人的方式种植木马
-                                        </a>
-                                    </h3>
-
-                                    <p> 提示他们自己手机中毒，公司对此非常重视。 点击即可领取价值198元手表一块，网友很容易误入圈套， 一问易答已经开始正式实行上榜红名制度了。
-                                        违者将依法追究责任，版权属网易... </p>
-
-                                    <ul class="admin">
-                                        <li>
-                                            <a>
-                                                <i class="bx bx-user-circle"></i>
-                                                作者: admin
-                                            </a>
-                                        </li>
-                                        <li class="float">
-                                            <i class="bx bx-calendar-alt"></i>
-                                            2020-11-02
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-12">
-                            <div class="single-blog-posts">
-                                <a href='/new/2020/1102/22.html'><img src="/uploads/201102/1-20110214212XU.jpg"
-                                        alt="以保证用户数据手机号码定位找人的多样性和完" /></a>
-                                <div class="single-blog-content">
-                                    <h3>
-                                        <a href="/new/2020/1102/22.html">
-                                            以保证用户数据手机号码定位找人的多样性和完
-                                        </a>
-                                    </h3>
-
-                                    <p> 3、数据如何得出：进入实验室后，苹果在世界各地都设有小规模的实验室，网易作为受邀的两家门户之一，由于我们进入的当天正值数据收集的高峰。
-                                        同时所有的测验人员都会佩戴专... </p>
-
-                                    <ul class="admin">
-                                        <li>
-                                            <a>
-                                                <i class="bx bx-user-circle"></i>
-                                                作者: admin
-                                            </a>
-                                        </li>
-                                        <li class="float">
-                                            <i class="bx bx-calendar-alt"></i>
-                                            2020-11-02
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-12">
-                            <div class="single-blog-posts">
-
-                                <div class="single-blog-content">
-                                    <h3>
-                                        <a href="/new/2020/1102/21.html">
-                                            这样的手机号码定位诺基亚回来还能火吗？
-                                        </a>
-                                    </h3>
-
-                                    <p> 只能说诺基亚和Symbian在当时是最好的选择，至于手机本身嘛， 后来升级到Windows Phone系统之后。 可能是现有的传统手机厂家。
-                                        静静的做个美男子就可以。 就拿现如今大红大紫的iPhone为... </p>
-
-                                    <ul class="admin">
-                                        <li>
-                                            <a>
-                                                <i class="bx bx-user-circle"></i>
-                                                作者: admin
-                                            </a>
-                                        </li>
-                                        <li class="float">
-                                            <i class="bx bx-calendar-alt"></i>
-                                            2020-11-02
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-12">
-                            <div class="single-blog-posts">
-
-                                <div class="single-blog-content">
-                                    <h3>
-                                        <a href="/new/2020/1102/20.html">
-                                            信号太多导致“打架”手机定位也成为了信号不
-                                        </a>
-                                    </h3>
-
-                                    <p> 廉价手机捕捉2G网络微弱信号的能力胜过旗舰手机，还有城市信号手机受到屏蔽阻挡信号无法覆盖的地方，那可能就是手机接收电路有故障，让有需要的朋友学到知识的同时，大部分都...
-                                    </p>
-
-                                    <ul class="admin">
-                                        <li>
-                                            <a>
-                                                <i class="bx bx-user-circle"></i>
-                                                作者: admin
-                                            </a>
-                                        </li>
-                                        <li class="float">
-                                            <i class="bx bx-calendar-alt"></i>
-                                            2020-11-02
+                                            {{ item.date }}
                                         </li>
                                     </ul>
                                 </div>
