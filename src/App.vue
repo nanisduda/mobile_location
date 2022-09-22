@@ -1,85 +1,79 @@
 <script setup lang="ts">
 import { RouterLink, RouterView } from 'vue-router'
-import HelloWorld from './components/HelloWorld.vue'
+import './assets/css/bootstrap.min.css'
+import './assets/css/owl.theme.default.min.css'
+import './assets/css/owl.carousel.min.css'
+import './assets/css/animate.min.css'
+import './assets/css/boxicons.min.css'
+import './assets/css/magnific-popup.min.css'
+import './assets/css/flaticon.css'
+import './assets/css/meanmenu.min.css'
+import './assets/css/nice-select.min.css'
+import './assets/css/odometer.min.css'
+import './assets/css/style-two.css'
+import './assets/css/responsive-two.css'
+import Preloader from './components/Preloader.vue'
 </script>
 
 <template>
-  <header>
-    <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
-
-    <div class="wrapper">
-      <HelloWorld msg="You did it!" />
-
-      <nav>
-        <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/about">About</RouterLink>
-      </nav>
-    </div>
-  </header>
-
-  <RouterView />
+	<Preloader />
+	<!-- Start Header Area -->
+	<header class="header-area">
+		<div class="navbar-area">
+			<div class="mobile-nav">
+				<div class="container">
+					<a href="/" class="logo">
+						<img src="assets/img/logo.png" alt="Logo">
+					</a>
+				</div>
+			</div>
+			<div class="main-nav">
+				<div class="container">
+					<nav class="navbar navbar-expand-md">
+						<a href="http://" class="navbar-brand">
+							<img src="./assets/img/logo.png" alt="">
+						</a>
+						<div class="collapse navbar-collapse mean-menu" style="display: block;">
+							<ul class="navbar-nav m-auto">
+								<li class="nav-item">
+									<RouterLink to="/" class="nav-link active">网站首页</RouterLink>
+								</li>
+								<li class="nav-item">
+									<RouterLink to="/new" class="nav-link">新闻动态</RouterLink>
+								</li>
+								<li class="nav-item">
+									<RouterLink to="/help" class="nav-link">帮助中心</RouterLink>
+								</li>
+								<li class="nav-item">
+									<RouterLink to="/service" class="nav-link">服务项目</RouterLink>
+								</li>
+								<li class="nav-item">
+									<RouterLink to="/about" class="nav-link">关于我们</RouterLink>
+								</li>
+								<li class="nav-item">
+									<RouterLink to="/contact" class="nav-link">联系我们</RouterLink>
+								</li>
+							</ul>
+							<div class="others-option">
+								<div class="get-quote">
+									<a href="" class="default-btn">
+										<span>开始定位体验</span>
+									</a>
+								</div>
+							</div>
+						</div>
+					</nav>
+				</div>
+			</div>
+		</div>
+	</header>
+	<!-- End Header Area -->
+	<RouterView />
 </template>
 
 <style scoped>
-header {
-  line-height: 1.5;
-  max-height: 100vh;
-}
-
-.logo {
-  display: block;
-  margin: 0 auto 2rem;
-}
-
-nav {
-  width: 100%;
-  font-size: 12px;
-  text-align: center;
-  margin-top: 2rem;
-}
-
-nav a.router-link-exact-active {
-  color: var(--color-text);
-}
-
-nav a.router-link-exact-active:hover {
-  background-color: transparent;
-}
-
-nav a {
-  display: inline-block;
-  padding: 0 1rem;
-  border-left: 1px solid var(--color-border);
-}
-
-nav a:first-of-type {
-  border: 0;
-}
-
-@media (min-width: 1024px) {
-  header {
-    display: flex;
-    place-items: center;
-    padding-right: calc(var(--section-gap) / 2);
-  }
-
-  .logo {
-    margin: 0 2rem 0 0;
-  }
-
-  header .wrapper {
-    display: flex;
-    place-items: flex-start;
-    flex-wrap: wrap;
-  }
-
-  nav {
-    text-align: left;
-    margin-left: -1rem;
-    font-size: 1rem;
-
-    padding: 1rem 0;
-    margin-top: 1rem;
-  }
+#jarallax-container-0 {
+	clip: rect(0 1854px 472.59375px 0);
+	clip: rect(0, 1854px, 472.59375px, 0);
 }
 </style>
